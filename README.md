@@ -1,4 +1,4 @@
-# SynthEdit-Bug-Tracking
+# SynthEdit-Bug-Tracking and Feature Requests
 Use this to report bugs in SynthEdit.
 To ensure your report is not lost or forgotten, we will no longer be responding to bugs posted on public forums.
 
