@@ -17,4 +17,5 @@ Many people who release plugins have asked that the 'Release' (current) version 
 
 *When are feature requests implemented?*
 
-New features will added to the next beta version of the product. i.e. SynthEdit Version 1.6, the reason for this is so that only people who are prepared to experience bugs can opt-in to using the beta. People who wish to experience the fewest disruption and bugs can stick to teh 'release' version of the product. ie. SynthEdit Version 1.5
+New features will added to the next beta version of the product. i.e. SynthEdit Version 1.6, the reason for this is so that only people who are prepared to experience bugs can opt-in to using the beta. People who wish to experience the fewest disruptions and bugs can stick to the 'release' version of the product. ie. SynthEdit Version 1.5
+ New features are tagged here as 'enhancement'. We will devise some system of voting so that you can influence which feature get priority.
